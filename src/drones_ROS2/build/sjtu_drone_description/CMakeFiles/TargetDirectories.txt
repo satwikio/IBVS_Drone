@@ -1,0 +1,10 @@
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/uninstall.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/sjtu_drone_description_uninstall.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/plugin_drone.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/test.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/edit_cache.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/rebuild_cache.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/list_install_components.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/install.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/install/local.dir
+/home/ankur/ros2_ws/src/drones_ROS2/build/sjtu_drone_description/CMakeFiles/install/strip.dir
